@@ -18,6 +18,8 @@ Autores: Laura Sofía Lizarazo y Juan José Sierra
 - `vehiculos_por_tipo_fecha/3` → Agrupa vehículos por tipo y fecha.
 - `generar_reporte/5` → Genera reportes con restricción de presupuesto.
 
+Link del video: https://youtu.be/ikBF5c9Cevw?si=FMQFNL_wNDOjV6qt
+
 ## Casos de prueba
 
 Caso 1: Toyota SUV < $30,000
